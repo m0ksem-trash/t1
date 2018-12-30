@@ -2,5 +2,5 @@
 Pixel-perfect site layout.  
 creation date: nov 2017
 
-#### Why trash?
+### Why trash?
 I was too lazy to make adaptability
