@@ -2,4 +2,4 @@
 Pixel-perfect site layout
 
 
-< I forgot about adaptability here.
+> I forgot about adaptability here.
